@@ -1,0 +1,24 @@
+C:\Users\kuna\source\repos\GeoTema\GeoTema\bin\Debug\GeoTema.exe.config
+C:\Users\kuna\source\repos\GeoTema\GeoTema\bin\Debug\GeoTema.exe
+C:\Users\kuna\source\repos\GeoTema\GeoTema\bin\Debug\GeoTema.pdb
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.csprojAssemblyReference.cache
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.Form1.resources
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.Properties.Resources.resources
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.csproj.GenerateResource.cache
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.csproj.CoreCompileInputs.cache
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.exe
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.pdb
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.FormShowDatabaseAdmin.resources
+C:\Users\kuna\source\repos\GeoTema\GeoTema\obj\Debug\GeoTema.FormDiagram.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\bin\Debug\GeoTema.exe.config
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\bin\Debug\GeoTema.exe
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\bin\Debug\GeoTema.pdb
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.csprojAssemblyReference.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.Form1.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.FormDiagram.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.FormShowDatabaseAdmin.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.Properties.Resources.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.csproj.GenerateResource.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.csproj.CoreCompileInputs.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.exe
+C:\Users\kuna\OneDrive\Computer Engineering\P2\C#andSql\GeoTema\GeoTema\obj\Debug\GeoTema.pdb
